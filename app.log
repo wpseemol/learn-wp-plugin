@@ -1,0 +1,6 @@
+[2025-08-07T18:58:12.857686+00:00] my_logger.INFO: This is a log message. [] []
+[2025-08-07T18:58:13.709727+00:00] my_logger.INFO: This is a log message. [] []
+[2025-08-07T18:58:21.061409+00:00] my_logger.INFO: This is a log message. [] []
+[2025-08-07T18:58:40.996413+00:00] my_logger.INFO: This is a log message. [] []
+[2025-08-07T18:58:47.203419+00:00] my_logger.INFO: This is a log message. [] []
+[2025-08-07T18:59:48.543186+00:00] my_logger.INFO: This is a log message. [] []
